@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/react-jun19-todo-app/static/js/main.e43f8b45.chunk.js",
-    "main.js.map": "/react-jun19-todo-app/static/js/main.e43f8b45.chunk.js.map",
+    "main.css": "/react-jun19-todo-app/static/css/main.8d8ea93d.chunk.css",
+    "main.js": "/react-jun19-todo-app/static/js/main.b63b75df.chunk.js",
+    "main.js.map": "/react-jun19-todo-app/static/js/main.b63b75df.chunk.js.map",
     "runtime~main.js": "/react-jun19-todo-app/static/js/runtime~main.fca6f6d6.js",
     "runtime~main.js.map": "/react-jun19-todo-app/static/js/runtime~main.fca6f6d6.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/react-jun19-todo-app/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/react-jun19-todo-app/static/js/2.65aa1cca.chunk.js.map",
+    "static/js/2.d5ea4147.chunk.js": "/react-jun19-todo-app/static/js/2.d5ea4147.chunk.js",
+    "static/js/2.d5ea4147.chunk.js.map": "/react-jun19-todo-app/static/js/2.d5ea4147.chunk.js.map",
     "index.html": "/react-jun19-todo-app/index.html",
-    "precache-manifest.f889ea8f0ad3f6e71da61d78e7f2b2d6.js": "/react-jun19-todo-app/precache-manifest.f889ea8f0ad3f6e71da61d78e7f2b2d6.js",
-    "service-worker.js": "/react-jun19-todo-app/service-worker.js"
+    "precache-manifest.25065deb1b2c7230419fe4d7729e86de.js": "/react-jun19-todo-app/precache-manifest.25065deb1b2c7230419fe4d7729e86de.js",
+    "service-worker.js": "/react-jun19-todo-app/service-worker.js",
+    "static/css/main.8d8ea93d.chunk.css.map": "/react-jun19-todo-app/static/css/main.8d8ea93d.chunk.css.map"
   }
 }
